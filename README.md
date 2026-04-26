@@ -30,6 +30,9 @@ El desarrollo del proyecto se realizó en cuatro etapas:
 - El análisis permitió relacionar volumen de ventas con utilidad real, destacando que vender más no siempre implica mayor beneficio.
 - Las visualizaciones facilitaron la comprensión de patrones y la priorización de acciones comerciales y operativas.
 
+## Video
+https://youtu.be/uBIh3BpL53s
+
 ## Conclusiones
 
 - El análisis de datos permite transformar información histórica en decisiones estratégicas para mejorar resultados del negocio.
